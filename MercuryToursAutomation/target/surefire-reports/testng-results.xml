@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Justinboots" duration-ms="26600" started-at="2019-03-20T06:57:08Z" finished-at="2019-03-20T06:57:34Z">
+    <groups>
+    </groups>
+    <test name="test" duration-ms="26600" started-at="2019-03-20T06:57:08Z" finished-at="2019-03-20T06:57:34Z">
+      <class name="com.mercurytours.testcases.LoginVerificationTest">
+        <test-method status="PASS" signature="setUpDriver()[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="setUpDriver" is-config="true" duration-ms="469" started-at="2019-03-20T12:27:07Z" finished-at="2019-03-20T12:27:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="setUpWebDriver()[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="setUpWebDriver" is-config="true" duration-ms="12060" started-at="2019-03-20T12:27:08Z" finished-at="2019-03-20T12:27:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpWebDriver -->
+        <test-method status="PASS" signature="validSignInTest(java.lang.String, java.lang.String)[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="validSignInTest" duration-ms="10721" started-at="2019-03-20T12:27:22Z" data-provider="loginData" finished-at="2019-03-20T12:27:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hmtest]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hmtest]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validSignInTest -->
+        <test-method status="PASS" signature="afterTestMethod(org.testng.ITestResult)[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="afterTestMethod" is-config="true" duration-ms="5" started-at="2019-03-20T12:27:33Z" finished-at="2019-03-20T12:27:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validSignInTest status=SUCCESS method=LoginVerificationTest.validSignInTest(java.lang.String, java.lang.String)[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestMethod -->
+        <test-method status="PASS" signature="afterclassMethod()[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="afterclassMethod" is-config="true" duration-ms="1673" started-at="2019-03-20T12:27:33Z" finished-at="2019-03-20T12:27:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterclassMethod -->
+        <test-method status="PASS" signature="afterTestSuite()[pri:0, instance:com.mercurytours.testcases.LoginVerificationTest@271053e1]" name="afterTestSuite" is-config="true" duration-ms="531" started-at="2019-03-20T12:27:34Z" finished-at="2019-03-20T12:27:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestSuite -->
+      </class> <!-- com.mercurytours.testcases.LoginVerificationTest -->
+    </test> <!-- test -->
+  </suite> <!-- Justinboots -->
+</testng-results>

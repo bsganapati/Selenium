@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Justinboots">
+
+	<test name="test">
+		<classes>
+			
+				<!-- <class name="com.justinboots.testcases.EndToEndVerificationTest"></class>
+			 	 <class name="com.justinboots.testcases.RegistrationTest"></class> -->
+				<class name="com.mercurytours.testcases.LoginVerificationTest"></class>  
+		</classes>
+	</test>
+</suite>
