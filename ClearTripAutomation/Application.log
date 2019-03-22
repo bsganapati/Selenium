@@ -1,0 +1,287 @@
+30-10-2018 13:47:08,610 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:47:08,610 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 13:47:08,610 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:47:14,746 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 13:47:17,659 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 13:47:20,916 [main] INFO [justinboots.pages.HomePage]  - Click on Men menu
+30-10-2018 13:47:21,122 [main] INFO [justinboots.pages.HomePage]  - Click on Bent Rail
+30-10-2018 13:47:27,357 [main] INFO [justinboots.pages.ProductListPage]  - Get total displayed count
+30-10-2018 13:47:27,415 [main] INFO [justinboots.pages.ProductListPage]  - Click on Product AUSTIN WHITE
+30-10-2018 13:47:30,080 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Verify Product Desc page
+30-10-2018 13:47:34,160 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 13:47:34,328 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 13:47:34,449 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 13:47:34,578 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 13:47:42,786 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 13:47:42,954 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 13:47:43,045 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 13:47:43,129 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 13:47:51,270 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Breadcrumb category 
+30-10-2018 13:47:55,932 [main] INFO [justinboots.pages.ProductListPage]  - Click on Product AUSTIN DARK BROWN
+30-10-2018 13:47:57,455 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Verify Product Desc page
+30-10-2018 13:48:01,537 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 13:48:01,719 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 13:48:01,833 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 13:48:01,958 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 13:48:10,171 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 13:48:10,392 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 13:48:10,480 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 13:48:10,563 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Checkout now
+30-10-2018 13:48:27,165 [main] INFO [justinboots.pages.CartPage]  - Get value of ITEMS
+30-10-2018 13:48:27,260 [main] INFO [justinboots.pages.CartPage]  - Get value of SUB TOTAL
+30-10-2018 13:48:27,332 [main] INFO [justinboots.pages.CartPage]  - Get value of TAX
+30-10-2018 13:48:27,554 [main] INFO [justinboots.pages.CartPage]  - Click on Proceed To Checkout button
+30-10-2018 13:48:44,032 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Select Checkbox 'Same as Shipping Address'
+30-10-2018 13:48:48,221 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Click change payment button
+30-10-2018 13:48:52,510 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Enter Card Details
+30-10-2018 13:49:03,916 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Click Place Order 
+30-10-2018 13:49:23,015 [main] INFO [justinboots.pages.ThankYouPage]  - Verify Thank you  page
+30-10-2018 13:49:23,203 [main] INFO [justinboots.pages.ThankYouPage]  - Order Number is : 2892934
+30-10-2018 13:49:23,239 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:49:23,239 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:49:23,239 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:49:23,239 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 13:49:24,692 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 13:49:26,804 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:49:26,804 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 13:49:26,804 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:49:33,001 [main] INFO [justinboots.pages.RegisterPage]  - Click on Register link
+30-10-2018 13:49:35,718 [main] INFO [justinboots.pages.RegisterPage]  - Verifying Sign Up page label
+30-10-2018 13:49:35,775 [main] INFO [justinboots.pages.RegisterPage]  - Entering data for registeration
+30-10-2018 13:49:39,937 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Birthday Month
+30-10-2018 13:49:40,154 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Day
+30-10-2018 13:49:40,511 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Country
+30-10-2018 13:49:40,725 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question1
+30-10-2018 13:49:41,198 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question2
+30-10-2018 13:49:41,580 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question3
+30-10-2018 13:49:41,904 [main] INFO [justinboots.pages.RegisterPage]  - Click on Register button on Registeration page
+30-10-2018 13:49:46,024 [main] INFO [justinboots.pages.RegisterPage]  - Verifying Success message after registeration
+30-10-2018 13:49:46,165 [main] INFO [justinboots.pages.RegisterPage]  - Fetching Registeration Success message
+30-10-2018 13:49:49,278 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:49:49,278 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:49:49,278 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:49:49,293 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 13:49:50,590 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 13:49:52,705 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:49:52,705 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 13:49:52,705 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 13:49:58,140 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 13:50:02,058 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 13:50:02,389 [main] INFO [justinboots.testbase.TestBase]  - Path is D:\workspace\HHBrownAutomationFramework\target\Reports\Screenshots
+30-10-2018 13:50:02,793 [main] INFO [justinboots.testbase.TestBase]  - Screenshot path D:\workspace\HHBrownAutomationFramework//target//Reports////Screenshots//loginPageErrorMessageValidation_1540887602793.jpg
+30-10-2018 13:50:02,840 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:02,840 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:50:02,840 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:02,891 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 13:50:06,053 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 13:50:06,320 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:06,320 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:50:06,320 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:06,379 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 13:50:10,017 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 13:50:10,313 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:10,313 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:50:10,314 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:10,383 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 13:50:13,502 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 13:50:20,733 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:20,733 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 13:50:20,734 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 13:50:20,736 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 13:50:22,023 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 13:50:22,476 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+30-10-2018 13:50:22,476 [main] INFO [justinboots.testbase.TestBase]  - *** End of Suite Execution: 
+30-10-2018 13:50:22,476 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+30-10-2018 14:11:35,187 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:11:35,190 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 14:11:35,190 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:11:41,746 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 14:11:44,915 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 14:11:48,631 [main] INFO [justinboots.pages.HomePage]  - Click on Men menu
+30-10-2018 14:11:48,824 [main] INFO [justinboots.pages.HomePage]  - Click on Bent Rail
+30-10-2018 14:11:55,147 [main] INFO [justinboots.pages.ProductListPage]  - Get total displayed count
+30-10-2018 14:11:55,219 [main] INFO [justinboots.pages.ProductListPage]  - Click on Product AUSTIN WHITE
+30-10-2018 14:11:58,074 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Verify Product Desc page
+30-10-2018 14:12:02,147 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 14:12:02,339 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 14:12:02,559 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 14:12:02,697 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 14:12:10,843 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 14:12:11,035 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 14:12:11,152 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 14:12:11,252 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 14:12:19,390 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Breadcrumb category 
+30-10-2018 14:12:24,100 [main] INFO [justinboots.pages.ProductListPage]  - Click on Product AUSTIN DARK BROWN
+30-10-2018 14:12:26,727 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Verify Product Desc page
+30-10-2018 14:12:30,802 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 14:12:30,944 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 14:12:31,091 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 14:12:31,226 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Close button
+30-10-2018 14:12:39,415 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Select Size
+30-10-2018 14:12:39,552 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Enter quantity
+30-10-2018 14:12:39,658 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Add to Cart
+30-10-2018 14:12:39,753 [main] INFO [justinboots.pages.ProductDescriptionPage]  - Click on Checkout now
+30-10-2018 14:12:56,658 [main] INFO [justinboots.pages.CartPage]  - Get value of ITEMS
+30-10-2018 14:12:56,743 [main] INFO [justinboots.pages.CartPage]  - Get value of SUB TOTAL
+30-10-2018 14:12:56,808 [main] INFO [justinboots.pages.CartPage]  - Get value of TAX
+30-10-2018 14:12:56,928 [main] INFO [justinboots.pages.CartPage]  - Click on Proceed To Checkout button
+30-10-2018 14:13:14,218 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Select Checkbox 'Same as Shipping Address'
+30-10-2018 14:13:18,362 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Click change payment button
+30-10-2018 14:13:22,648 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Enter Card Details
+30-10-2018 14:13:34,424 [main] INFO [justinboots.pages.ShippingAndPaymentPage]  - Click Place Order 
+30-10-2018 14:13:53,075 [main] INFO [justinboots.pages.ThankYouPage]  - Verify Thank you  page
+30-10-2018 14:13:53,284 [main] INFO [justinboots.pages.ThankYouPage]  - Order Number is : 2892956
+30-10-2018 14:13:53,316 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:13:53,316 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:13:53,316 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:13:53,321 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 14:13:54,684 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 14:13:58,244 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:13:58,245 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 14:13:58,245 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:14:03,681 [main] INFO [justinboots.pages.RegisterPage]  - Click on Register link
+30-10-2018 14:14:06,680 [main] INFO [justinboots.pages.RegisterPage]  - Verifying Sign Up page label
+30-10-2018 14:14:06,821 [main] INFO [justinboots.pages.RegisterPage]  - Entering data for registeration
+30-10-2018 14:14:11,146 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Birthday Month
+30-10-2018 14:14:11,277 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Day
+30-10-2018 14:14:11,643 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Country
+30-10-2018 14:14:11,779 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question1
+30-10-2018 14:14:12,191 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question2
+30-10-2018 14:14:12,648 [main] INFO [justinboots.mainbase.MainBase]  - Looking for the webelement Security Question3
+30-10-2018 14:14:13,004 [main] INFO [justinboots.pages.RegisterPage]  - Click on Register button on Registeration page
+30-10-2018 14:14:17,136 [main] INFO [justinboots.pages.RegisterPage]  - Verifying Success message after registeration
+30-10-2018 14:14:17,181 [main] INFO [justinboots.pages.RegisterPage]  - Fetching Registeration Success message
+30-10-2018 14:14:20,218 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:20,218 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:14:20,219 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:20,219 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 14:14:21,362 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 14:14:24,820 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:14:24,821 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+30-10-2018 14:14:24,821 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+30-10-2018 14:14:30,259 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 14:14:33,977 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 14:14:34,251 [main] INFO [justinboots.testbase.TestBase]  - Path is D:\workspace\HHBrownAutomationFramework\target\Reports\Screenshots
+30-10-2018 14:14:34,681 [main] INFO [justinboots.testbase.TestBase]  - Screenshot path D:\workspace\HHBrownAutomationFramework//target//Reports////Screenshots//loginPageErrorMessageValidation_1540889074681.jpg
+30-10-2018 14:14:34,750 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:34,751 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:14:34,751 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:34,818 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 14:14:48,359 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 14:14:48,614 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:48,615 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:14:48,615 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:48,677 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 14:14:55,339 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 14:14:55,604 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:55,605 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:14:55,605 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:14:55,677 [main] INFO [justinboots.pages.HomePage]  - Click on Log In link
+30-10-2018 14:14:58,759 [main] INFO [justinboots.pages.LoginPage]  - Enter credentails
+30-10-2018 14:15:01,692 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:15:01,692 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+30-10-2018 14:15:01,692 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+30-10-2018 14:15:01,695 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+30-10-2018 14:15:02,817 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+30-10-2018 14:15:03,319 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+30-10-2018 14:15:03,319 [main] INFO [justinboots.testbase.TestBase]  - *** End of Suite Execution: 
+30-10-2018 14:15:03,319 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+08-03-2019 15:57:48,055 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+08-03-2019 15:57:48,070 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+08-03-2019 15:57:48,071 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+13-03-2019 12:34:31,114 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+13-03-2019 12:34:31,117 [main] INFO [justinboots.mainbase.MainBase]  - *** Start of Suite Execution: 
+13-03-2019 12:34:31,117 [main] INFO [justinboots.mainbase.MainBase]  - ***********************************************************************************
+13-03-2019 12:34:49,096 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+13-03-2019 12:34:49,096 [main] INFO [justinboots.testbase.TestBase]  -  End of Execution 
+13-03-2019 12:34:49,096 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************
+13-03-2019 12:34:49,097 [main] INFO [justinboots.testbase.TestBase]  - Trying to Stop WebDriver
+13-03-2019 12:34:50,710 [main] INFO [justinboots.testbase.TestBase]  - WebDriver Stopped
+13-03-2019 12:34:51,419 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+13-03-2019 12:34:51,420 [main] INFO [justinboots.testbase.TestBase]  - *** End of Suite Execution: 
+13-03-2019 12:34:51,420 [main] INFO [justinboots.testbase.TestBase]  - ***********************************************************************************
+20-03-2019 12:27:17,467 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+20-03-2019 12:27:17,491 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+20-03-2019 12:27:17,491 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+20-03-2019 12:27:22,704 [main] INFO [mercurytours.pages.HomePage]  - Click on Log In link
+20-03-2019 12:27:23,779 [main] INFO [mercurytours.pages.LoginPage]  - Enter credentails
+20-03-2019 12:27:33,245 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+20-03-2019 12:27:33,245 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+20-03-2019 12:27:33,245 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+20-03-2019 12:27:33,246 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+20-03-2019 12:27:34,919 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+20-03-2019 12:27:35,471 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************************************
+20-03-2019 12:27:35,471 [main] INFO [mercurytours.testbase.TestBase]  - *** End of Suite Execution: 
+20-03-2019 12:27:35,471 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************************************
+22-03-2019 15:22:21,251 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:22:21,253 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:22:21,253 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:22:25,676 [main] INFO [mercurytours.pages.HomePage]  - Click on Log In link
+22-03-2019 15:22:26,728 [main] INFO [mercurytours.pages.LoginPage]  - Enter credentails
+22-03-2019 15:25:22,154 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:25:22,154 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:25:22,155 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:25:22,156 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:25:23,922 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:26:03,735 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:26:03,739 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:26:03,739 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:26:06,928 [main] INFO [mercurytours.pages.HomePage]  - Click on Log In link
+22-03-2019 15:26:08,014 [main] INFO [mercurytours.pages.LoginPage]  - Enter credentails
+22-03-2019 15:27:10,330 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:27:10,330 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:27:10,331 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:27:10,332 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:27:11,983 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:27:14,167 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:27:14,168 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:27:14,168 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:27:21,289 [main] INFO [mercurytours.pages.RegisterPage]  - Enter Details
+22-03-2019 15:27:27,014 [main] INFO [mercurytours.mainbase.MainBase]  - Looking for the webelement ARGENTINA
+22-03-2019 15:27:27,647 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:27:27,648 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:27:27,648 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:27:27,649 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:27:29,114 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:27:31,297 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:27:31,298 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:27:31,298 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:27:40,752 [main] INFO [mercurytours.pages.HomePage]  - Click on Log In link
+22-03-2019 15:27:41,843 [main] INFO [mercurytours.pages.LoginPage]  - Enter credentails
+22-03-2019 15:28:42,311 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:28:42,312 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:28:42,312 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:28:42,345 [main] INFO [mercurytours.pages.RegisterPage]  - Select Flight Details
+22-03-2019 15:28:43,951 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:28:43,951 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:28:43,951 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:28:43,953 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:28:45,402 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:28:47,487 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:28:47,487 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:28:47,487 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:28:55,333 [main] INFO [mercurytours.pages.HomePage]  - Click on Log In link
+22-03-2019 15:28:56,072 [main] INFO [mercurytours.pages.LoginPage]  - Enter credentails
+22-03-2019 15:33:56,441 [main] INFO [mercurytours.testbase.TestBase]  - Path is D:\workspace\MercuryToursAutomation\target\Reports\Screenshots
+22-03-2019 15:33:57,119 [main] INFO [mercurytours.testbase.TestBase]  - Screenshot path D:\workspace\MercuryToursAutomation//target//Reports////Screenshots//validSignInTest_1553249037119.jpg
+22-03-2019 15:33:57,189 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:33:57,189 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:33:57,189 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:33:57,191 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:33:58,756 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:34:00,815 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:34:00,816 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:34:00,816 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:34:48,835 [main] INFO [mercurytours.pages.LoginPage]  - Click on Cruises link
+22-03-2019 15:35:09,233 [main] INFO [mercurytours.testbase.TestBase]  - Screenshot path D:\workspace\MercuryToursAutomation//target//Reports////Screenshots//validSignInTest_1553249109233.jpg
+22-03-2019 15:35:09,252 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:35:09,252 [main] INFO [mercurytours.testbase.TestBase]  -  End of Execution 
+22-03-2019 15:35:09,252 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************
+22-03-2019 15:35:09,253 [main] INFO [mercurytours.testbase.TestBase]  - Trying to Stop WebDriver
+22-03-2019 15:35:10,694 [main] INFO [mercurytours.testbase.TestBase]  - WebDriver Stopped
+22-03-2019 15:35:11,485 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************************************
+22-03-2019 15:35:11,485 [main] INFO [mercurytours.testbase.TestBase]  - *** End of Suite Execution: 
+22-03-2019 15:35:11,485 [main] INFO [mercurytours.testbase.TestBase]  - ***********************************************************************************
+22-03-2019 15:37:51,179 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************
+22-03-2019 15:37:51,182 [main] INFO [mercurytours.mainbase.MainBase]  - *** Start of Suite Execution: 
+22-03-2019 15:37:51,182 [main] INFO [mercurytours.mainbase.MainBase]  - ***********************************************************************************

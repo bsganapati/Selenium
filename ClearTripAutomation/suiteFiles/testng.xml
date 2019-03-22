@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MercuryTours">
+
+	<test name="test">
+		<classes>
+			
+				
+				<class name="com.cleartrip.testcases.LoginVerificationTest"></class> 
+		<!-- 		<class name="com.mercurytours.testcases.RegistrationVerificationTest"/>
+				 <class name="com.mercurytours.testcases.FlightFinderTest"/> 
+				 <class name="com.mercurytours.testcases.SelectFlightTest"/> 
+				 <class name="com.mercurytours.testcases.CruisesVerificationTest"/>  -->
+		</classes>
+	</test>
+</suite>
